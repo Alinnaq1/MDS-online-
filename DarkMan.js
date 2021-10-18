@@ -7387,16 +7387,16 @@ message.member.voiceChannel
 
 //تۆكینه‌كان لێره‌ جا بنێ
 
-client.login("");
-client2.login("");
-client3.login("");
-client4.login("");
-client5.login("");
-client6.login("");
-client7.login("");
-client8.login("");
-client9.login("");
-client10.login("");
+client.login("ODk5NjgwNzA2MTczNzU5NTA4.YW2X8A.ythU2zfdW5HwJ16WbDylPYr7PH0");
+client2.login("ODk5NjgxMjUxODc3ODUxMTc4.YW2X_Q.czptYorSKdFN3mg3nADUVJjee6M");
+client3.login("ODk5NjgxODU3MTYyMDU1Nzgw.YW2YCQ.rArNxuFeH61_IXY8mbAzkKLauAE");
+client4.login("ODk5NjgyMjM0NTY5NzM2Mjcy.YW2YFA.HXsqd5MlYxovjUzSHmQCHJfXIIE");
+client5.login("ODk5NjgyNjM0MzA3ODg3MTU2.YW2YIw.08GJk0__THGDnUTXRRMPMTcREW0");
+client6.login("ODk5NjgzMDYwNDAzMDI3OTk5.YW2YLQ.Q7pZMJ5lV__UgeyVb3VNhKlLtVU");
+client7.login("ODk5NjgzNTk0MDE5MTY0MjIz.YW2YOA.acm9K8Kfjk1QmBCG3OX_LMb3k4o");
+client8.login("ODk5NjgzOTgwODIyMDUyOTM1.YW2YRQ.h2GotoaNf3oyGxOoz2y0cCukj4Y");
+client9.login("ODk5Njg0MzczNDE3MzA4MTcx.YW2YUA.zOdJllvK62h6OT4OnPRFDbf-C3s");
+client10.login("ODk5Njg0NzM2ODcwNTM1MjEw.YW2YXA.GMXfeJenMTyJmbTzd3kgVSy-0JQ");
 client11.login("");
 client12.login("");
 client13.login("");
